@@ -1,5 +1,12 @@
-# scaffold
+# Scaffold
 This is a project scaffold for Python
+
+## Git Commands
+* Check status with "git status"
+* If the file is already exist in the repo, "git add <filename>" or * for all files.
+* git commit -m "<Explanation>"
+* git push
+
 
 * If there is an error activating the venv go to venv directory and run "virtaulenv .env" command
 
